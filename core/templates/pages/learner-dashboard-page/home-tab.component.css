@@ -76,6 +76,10 @@
 #setting-a-goal-link {
   color: #00645c;
   font-weight: bold;
+  text-decoration: none;
+}
+#setting-a-goal-link :hover{
+  text-decoration: underline;
 }
 .home-tab .empty-suggested-for-you-section {
   color: #333;
